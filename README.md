@@ -161,8 +161,6 @@ ec2_instance_id – The ID of the EC2 instance.
 
 s3_bucket_arn – The ARN of the created S3 bucket.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 yaml
 Copy
