@@ -13,7 +13,7 @@ This repository contains **Terraform configurations** for provisioning and manag
 | `modules/`      | Reusable infrastructure modules |
 | `environments/` | Environment-specific configurations (e.g., dev, prod) |
 
----
+--
 
 ## 🧰 Requirements
 
